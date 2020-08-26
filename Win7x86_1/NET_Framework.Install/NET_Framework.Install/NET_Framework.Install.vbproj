@@ -67,7 +67,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="NIT.SYSUPDATE.Library">
-      <HintPath>..\..\NIT.SYSUPDATE.Library\NIT.SYSUPDATE.Library\bin\Debug\NIT.SYSUPDATE.Library.dll</HintPath>
+      <HintPath>..\..\NIT.SYSUPDATE.Library\NIT.SYSUPDATE.Library\bin\Release\NIT.SYSUPDATE.Library.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />

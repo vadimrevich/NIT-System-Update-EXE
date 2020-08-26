@@ -47,9 +47,8 @@
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="NIT.SYSUPDATE.Library, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\NIT.SYSUPDATE.Library\NIT.SYSUPDATE.Library\bin\Debug\NIT.SYSUPDATE.Library.dll</HintPath>
+    <Reference Include="NIT.SYSUPDATE.Library">
+      <HintPath>..\..\NIT.SYSUPDATE.Library\NIT.SYSUPDATE.Library\bin\Release\NIT.SYSUPDATE.Library.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />

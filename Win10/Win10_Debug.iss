@@ -7,7 +7,7 @@ AllowCancelDuringInstall=False
 DefaultDirName=C:\ProgramData\NIT\10
 AllowRootDirectory=True
 SolidCompression=True
-OutputDir=D:\Download
+OutputDir=e:\yuden\Compile
 OutputBaseFilename=Win10_Demo
 
 [Files]
