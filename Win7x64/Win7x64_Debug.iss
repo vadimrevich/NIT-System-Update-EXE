@@ -7,7 +7,7 @@ AllowCancelDuringInstall=False
 DefaultDirName=C:\ProgramData\NIT\7x64
 AllowRootDirectory=True
 SolidCompression=True
-OutputDir=e:\yuden\Compile
+OutputDir=C:\CODE\Compile
 OutputBaseFilename=Win7x64_Demo
 
 [Files]
